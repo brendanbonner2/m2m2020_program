@@ -1,43 +1,12 @@
 # MCM PRACTICUM
 
-This is a template for MCM practicums.  Please read these instructions carefully.
+Storage reporistory for completed Masters of AI practicum for DCU.
 
-This file is written in
-[markdown](https://guides.github.com/features/mastering-markdown/).  Markdown
-is a suitable format for documents stored in git repositories.
-
-## Instructions
-
-You *must* do the following:
-
-1 - Fork this repo.
-
-2 - There is no need to rename your fork but if you wish to do so please use
-     the format:
-
-     2021-mcm-username
-
-replacing `username` with your School of Computing login name.
-
-For example, if Stephen Blott were to be doing an MCM practicum, he would rename
-his repo as:
-
-     2021-mcm-sblott
-
-
-You should also update the *Project description*.
-
-3 - This directory has two important sub-directories.
-
-- All of your source code should be placed in the `src` sub-directory.
-
-- All of your documentation should be placed in the `docs` sub-directory.
-
-4 - There is further important documentation in the `docs` directory.  Read that next.
-
-When you are have followed all of these instructions and are sure that you
-understand what is expected, you may replace the contents of this file with a
-brief description of your project (two or three paragraphs).
+The project creates a cloud based public data reporitory for mutable and immutable recordings
+of machine learning model signatures. A python library allows the python notebook or keras application
+to automatically generate and update fingerprints through the lifecycle of a machine learning MLOps or
+deployment lifecycle (as well as an optimised synopsis of the model to show differences between validated
+models.
 
 ## Additional Resources
 
